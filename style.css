@@ -1,1 +1,19 @@
+h1 {
+    color: lightblue;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
 
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    font-family: 'Arial Narrow', sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
